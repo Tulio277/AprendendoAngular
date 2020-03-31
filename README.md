@@ -1,2 +1,2 @@
-# AprendendoAngular
- curso de agular repositorio
+# repositório lerolero
+testando o git desktop
